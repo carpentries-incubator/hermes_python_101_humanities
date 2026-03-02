@@ -22,3 +22,4 @@ abstract: >-
   Using Python on different datasets consisting of tables, text, images and sounds, learners explore 
   the possibilities of digital data analysis for the purpose of humanities research.
 license: CC-BY-4.0
+[![DOI](https://zenodo.org/badge/970763105.svg)](https://doi.org/10.5281/zenodo.18837668)
