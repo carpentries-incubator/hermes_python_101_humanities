@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Network Data"
 teaching: 180
-exercises: 12
+exercises: 1
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 

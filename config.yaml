@@ -19,7 +19,7 @@ carpentry_description: 'In this lesson, you will learn the basics of data analys
 computational humanities using Python.' #FIXME
 
 # Overall title for pages.
-title: 'Introduction to data analysis basics with Python for the humanities' 
+title: 'Introduction to Data Analysis Basics with Python for the Humanities' 
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2025-07-30' # FIXME
@@ -29,7 +29,7 @@ keywords: 'python, humanities, quantitative data analysis, digital humanities'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'alpha'
 
 # License of the lesson
 license: 'CC-BY 4.0'
