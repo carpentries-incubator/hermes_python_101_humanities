@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/970763105.svg)](https://doi.org/10.5281/zenodo.18837668)
+
 The main goal of this lesson is to familiarize humanities students and scholars with quantitative research 
 methods and data analysis basics. To make the concepts and methods of digital data analysis more 
 concrete and demonstrate their use case, this lesson also introduces the learners to the programming 
