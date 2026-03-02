@@ -15,8 +15,6 @@ title: Setup
 In this lesson, we will work with multiple datasets. Each dataset represents a specific 
 type of data that is suited to particular methods of quantitative analysis.
 
-<span style="color:red">Links to be updated.</span>
-
 ### Data for Episode 2 (Analyzing Tabular Data): Artworks from MoMA
 
 The metadata for artworks in the [Museum of Modern Art (MoMA)](https://www.moma.org/) collection 

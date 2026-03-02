@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Text Data"
 teaching: 180
-exercises: 12
+exercises: 3
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
