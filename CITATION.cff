@@ -1,9 +1,3 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
-
 cff-version: 1.2.0
 title: Introduction to data analysis basics with Python for the humanities
 message: >-
@@ -22,4 +16,4 @@ abstract: >-
   Using Python on different datasets consisting of tables, text, images and sounds, learners explore 
   the possibilities of digital data analysis for the purpose of humanities research.
 license: CC-BY-4.0
-[![DOI](https://zenodo.org/badge/970763105.svg)](https://doi.org/10.5281/zenodo.18837668)
+DOI: https://doi.org/10.5281/zenodo.18837668
