@@ -113,7 +113,7 @@ that dataframe with ten rows:
 ``` python
 import pandas as pd
 
-data_url='https://raw.githubusercontent.com/HERMES-DKZ/python_101_humanities/main/episodes/data/influence_network.csv'
+data_url='https://raw.githubusercontent.com/carpentries-incubator/hermes_python_101_humanities/main/episodes/data/influence_network.csv'
 influence_df = pd.read_csv(data_url)
 influence_df.sample(10)
 ```
