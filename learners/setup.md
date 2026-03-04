@@ -28,7 +28,7 @@ exactly what is demonstrated in the lesson.
 To download the data from this lesson’s repository onto your computer, use the following URL:
 
 ```
-https://github.com/HERMES-DKZ/python_101_humanities/blob/main/episodes/data/moma_artworks.csv
+https://github.com/carpentries-incubator/hermes_python_101_humanities/blob/main/episodes/data/moma_artworks.csv
 ```
 
 ### Data for Episode 3 (Analyzing Text Data): Plays by Shakespeare and Marlowe 
@@ -63,9 +63,9 @@ Each play has been saved to a `.txt` file.
 You can download each set of works from the folders provided below: 
 
 ```
-https://github.com/HERMES-DKZ/python_101_humanities/blob/main/episodes/data/shakespeare
+https://github.com/carpentries-incubator/hermes_python_101_humanities/blob/main/episodes/data/shakespeare
 
-https://github.com/HERMES-DKZ/python_101_humanities/blob/main/episodes/data/marlowe
+https://github.com/carpentries-incubator/hermes_python_101_humanities/blob/main/episodes/data/marlowe
 ```
 
 ### Data for Episode 4 (Analyzing Network Data): The Intellectual Influence Network
@@ -79,7 +79,7 @@ or were influenced by them.
 To download the data from this lesson’s repository onto your computer, use the following URL:
 
 ```
-https://github.com/HERMES-DKZ/python_101_humanities/blob/main/episodes/data/influence_network.csv
+https://github.com/carpentries-incubator/hermes_python_101_humanities/blob/main/episodes/data/influence_network.csv
 ```
 
 ## Software Setup
