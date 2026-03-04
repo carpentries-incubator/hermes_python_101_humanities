@@ -161,7 +161,7 @@ load data that already exists on your computer or online, and store it in the va
 what we are going to do right now:
 
 ``` Python
-data_path= 'https://raw.githubusercontent.com/HERMES-DKZ/Python_101_humanities/main/episodes/data/moma_artworks.csv'
+data_path= 'https://raw.githubusercontent.com/carpentries-incubator/hermes_python_101_humanities/main/episodes/data/moma_artworks.csv'
 ```
 
 You already know that CSV files actually represent tabular data. To make our `.csv` file look 
@@ -234,7 +234,7 @@ the lines we've written so far:
 ``` Python
 import pandas as pd
 
-data_path= 'https://raw.githubusercontent.com/HERMES-DKZ/Python_101_humanities/main/episodes/data/moma_artworks.csv'
+data_path= 'https://raw.githubusercontent.com/carpentries-incubator/hermes_python_101_humanities/main/episodes/data/moma_artworks.csv'
 moma_df= pd.read_csv(data_path)
 moma_df.head()
 ```

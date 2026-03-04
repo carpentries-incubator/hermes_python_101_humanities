@@ -49,8 +49,8 @@ import requests
 
 # Base URLs for each directory
 base_urls = {
-    "shakespeare": "https://raw.githubusercontent.com/HERMES-DKZ/python_101_humanities/main/episodes/data/shakespeare",
-    "marlowe": "https://raw.githubusercontent.com/HERMES-DKZ/python_101_humanities/main/episodes/data/marlowe"
+    "shakespeare": "https://raw.githubusercontent.com/carpentries-incubator/hermes_python_101_humanities/main/episodes/data/shakespeare",
+    "marlowe": "https://raw.githubusercontent.com/carpentries-incubator/hermes_python_101_humanities/main/episodes/data/marlowe"
 }
 
 # Files to download
