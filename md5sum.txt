@@ -9,5 +9,5 @@
 "episodes/02_analyze_text_data.md" "cfa34e4a610ab2777d056c39879e5149" "site/built/02_analyze_text_data.md" "2026-03-02"
 "episodes/03_analyze_network_data.md" "567539ed376b0fdc7e834991c1827cee" "site/built/03_analyze_network_data.md" "2026-03-02"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-03-16"
-"learners/setup.md" "c2fcb4f9a4b1d795a7df9fc2fdae11b0" "site/built/setup.md" "2026-03-02"
+"learners/setup.md" "865ed1c0c73ed81d9fdb62eb5fc09339" "site/built/setup.md" "2026-03-04"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-04-22"
